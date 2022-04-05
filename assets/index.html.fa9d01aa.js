@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"",lang:"en-GB",frontmatter:{home:!0,tagline:null,actions:[{text:"Get Started \u2192",link:"/get_started/installation"}]},excerpt:"",headers:[],git:{updatedTime:1649162421e3,contributors:[{name:"Dhruv Bhanushali",email:"dhruv_b@live.com",commits:1}]},filePathRelative:"README.md"};export{t as data};
